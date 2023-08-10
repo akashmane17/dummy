@@ -64,9 +64,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 
-<img src="http://github-readme-streak-stats.herokuapp.com?user=your-github-akashmane17&theme=dark&background=000000" />
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=akashmane17&show_icons=true&theme=transparent" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=akashmane17&show_icons=true&theme=transparent" />
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashmane17&layout=compact" />
+<img width="50%" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashmane17&layout=compact&theme=dark" />
 
